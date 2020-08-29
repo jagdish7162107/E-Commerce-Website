@@ -1,0 +1,61 @@
+body{
+width: 100%;
+height: 100%;
+margin: 0;
+
+}
+a{
+text-decoration: none;
+background-color: transparent;
+color:white;
+}
+.row{
+float:center;
+
+}
+#banner-image{
+padding-top:75px;
+padding-bottom:50px;
+color:#f8f8f8;
+text-align:center;
+background:url(../images/shoping_.jpg) no-repeat center center;
+background-size: cover ;
+}
+
+#banner_content{
+margin-top:12%;
+position:relative;
+margin-left:15%;
+margin-right:15%;
+padding-top:6%;
+padding-bottom:6%;
+margin-bottom:12%;
+background-color:rgba(0,0,0,0.7);
+max-width:660px;
+}
+
+/*footer{
+padding:10px 0;
+background-color:#101010;
+color:#9d9d9d;
+bottom:0;
+
+}*/
+
+.container{
+/*width:90%;*/
+margin:auto;
+overflow:hidden;
+}
+.thumbnail{
+display:block;
+max-width:100%;
+height:auto;
+}
+.caption{
+color:#000;
+padding:0px 10px 10px;
+font-weight:bold;
+text-align:center;
+
+}
